@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chess-system-java-master.iml" filepath="$PROJECT_DIR$/chess-system-java-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-system-java.iml" filepath="$PROJECT_DIR$/chess-system-java.iml" />
     </modules>
   </component>
 </project>

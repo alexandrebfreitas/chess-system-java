@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d58156be-2f4c-444d-a45b-9ec99789325d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/master/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/chess-system-java-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/application/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/boardgame/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/boardgame/BoardException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/boardgame/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/boardgame/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/ChessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/ChessMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/ChessPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/ChessPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/pieces/Bishop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/pieces/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/pieces/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/pieces/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/pieces/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/chess/pieces/Rook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/chess-system-java-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/BoardException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Piece.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Position.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Bishop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Knight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Queen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Rook.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,6 +30,14 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-264432722">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FindInProjectRecents">
     <dirStrings>
@@ -87,7 +54,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1080" />
     <option name="y" value="840" />
     <option name="width" value="1256" />
@@ -103,33 +70,22 @@
         <subPane>
           <expand>
             <path>
-              <item name="chess-system-java-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chess-system-java-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chess-system-java-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chess-system-java-master" type="462c0819:PsiDirectoryNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chess-system-java-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chess-system-java-master" type="462c0819:PsiDirectoryNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chess-system-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chess-system-java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1692442274656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1692443763435" />
     <property name="editorconfig.notification" value="null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -137,6 +93,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/master" />
     </key>
   </component>
@@ -155,7 +112,7 @@
   <component name="RunManager">
     <configuration name="Program" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="application.Program" />
-      <module name="chess-system-java-master" />
+      <module name="chess-system-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,17 +143,18 @@
       <workItem from="1692189477184" duration="1248000" />
       <workItem from="1692295945559" duration="2207000" />
       <workItem from="1692379768395" duration="596000" />
-      <workItem from="1692439128234" duration="2126000" />
+      <workItem from="1692439128234" duration="3184000" />
+      <workItem from="1692443421460" duration="342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18043000" />
+    <option name="totallyTimeSpent" value="19443000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1080" y="840" width="1920" height="1060" extended-state="6" />
+    <frame x="1080" y="840" width="1256" height="1060" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49752882" visible="true" weight="0.2353255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49752882" visible="true" weight="0.37107438" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -208,14 +166,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967983" weight="0.55531687" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.8537887" visible="true" weight="0.36734694" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8528926" visible="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3294686" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49852726" weight="0.07300885" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.14621131" side_tool="true" visible="true" weight="0.36734694" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.14710744" side_tool="true" visible="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.326228" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
